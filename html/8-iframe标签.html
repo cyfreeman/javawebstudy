@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>iframe</title>
+</head>
+<body>
+    <!--加载一个单独的完整的页面
+        iframe和a标签组合使用的步骤：
+            1、在iframe和a标签中使用name属性定义一个名称
+            2、在a标签的target属性上设置iframe的name属性值
+    -->
+    this is a single window<br/><br/>
+    <iframe src="7-表格跨行跨列.html" width="800" height="800" name="abc"></iframe>
+        <ul type="none">
+            <li><a href="5-img标签.html" target="abc">img标签</a></li>
+            <li><a href="6-表格标签.html" target="abc">表格标签</a></li>
+            <li><a href="5-img标签.html" target="abc">img标签</a></li>
+        </ul>
+
+</body>
+</html>

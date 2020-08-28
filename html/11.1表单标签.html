@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单标签</title>
+</head>
+<body>
+    <!--收集信息用
+        需求：创建一个个人信息注册的表单界面，包含用户名密码确认密码，性别，兴趣爱好，国籍。隐藏域，自我评价重置提交等
+    -->
+
+    <form>
+        <table>
+            <tr>
+                <td>用户名称：</td>
+                <td><input type="text" value="默认值"/><br/></td>
+            </tr>
+            <tr>
+                <td>用户密码：</td>
+                <td><input type="password" value=""/><br/></td>
+            </tr>
+            <tr>
+                <td>确认密码：</td>
+                <td><input type="password" value=""/><br/></td>
+            </tr>
+            <tr>
+                <td>性别：</td>
+                <td><input type="radio" name="sex" checked="checked"/>male<input type="radio">female<br/></td>
+            </tr>
+            <tr>
+                <td> 兴趣爱好：</td>
+                <td><br/><input type="checkbox" checked="checked"/>java<br/>
+                    <input type="checkbox"/>c<br/>
+                    <input type="checkbox"/>java web<br/></td>
+            </tr>
+
+            <tr>
+                <td>国籍：</td>
+                <td><select>
+                    <option selected="selected">请选择国籍</option>
+                    <option>usa</option>
+                    <option>us</option>
+                </select><br/></td>
+            </tr>
+            <tr>
+                <td>自我评价：</td>
+                <td><textarea rows="10" cols="20">i am the silence guy</textarea><br/></td>
+            </tr>
+            <tr>
+                <td><input type="reset" value="重搞"/><br/></td>
+                <td><input type="submit" value="给你吧"/><br/></td>
+                <td><input type="file"/><br/></td>
+                <td><input type="hidden" name="abc" value="abcValue"/><br/></td>
+            </tr>
+        </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </form>
+</body>
+</html>
