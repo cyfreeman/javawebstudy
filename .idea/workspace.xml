@@ -20,13 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7359cbc-5c17-4da0-9a1d-4a97d727cc87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/1-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/2-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/3-css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/css-3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/02.标签名选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ID选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/class类型选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/组合选择器.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javawebstudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javawebstudy.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -90,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598671690783</updated>
-      <workItem from="1598671694162" duration="5144000" />
+      <workItem from="1598671694162" duration="8176000" />
     </task>
     <servers />
   </component>
