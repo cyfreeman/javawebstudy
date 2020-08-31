@@ -20,18 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7359cbc-5c17-4da0-9a1d-4a97d727cc87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JKHTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/常用样式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/02-hellow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/03-变量.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/04-关系运算.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/05-逻辑运算.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/07-函数的第一种定义方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/08-函数的第二种定义方式.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/event/onClick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/hellow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/数组.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studyrecord" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598671690783</updated>
       <workItem from="1598671694162" duration="8176000" />
-      <workItem from="1598831083460" duration="13936000" />
+      <workItem from="1598831083460" duration="14281000" />
     </task>
     <servers />
   </component>
@@ -114,6 +103,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="705" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598868124598">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="705" y="356" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598868124598" />
     <state x="540" y="72" width="600" height="906" key="find.popup" timestamp="1598759178528">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
