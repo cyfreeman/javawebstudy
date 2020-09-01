@@ -20,10 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7359cbc-5c17-4da0-9a1d-4a97d727cc87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JKHTML/XHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JKHTML/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JKHTML/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JKHTML/aside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JKHTML/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JKHTML/section.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/javaweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/src/cy/study/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/xml/src/books.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/xml/xml/books.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyrecord" beforeDir="false" afterPath="$PROJECT_DIR$/studyrecord" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +43,7 @@
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,28 +72,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaweb/lib" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\javaweb" />
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\xml\xml" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\javaweb\lib" />
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\xml\src" />
       <recent name="D:\code\javastructure\javawebstudy\css" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -97,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598671690783</updated>
       <workItem from="1598671694162" duration="8176000" />
-      <workItem from="1598831083460" duration="14281000" />
+      <workItem from="1598831083460" duration="17987000" />
     </task>
     <servers />
   </component>
@@ -109,26 +110,39 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="705" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598868124598">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="705" y="356" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598868124598" />
+    <state x="769" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1598919939214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="251" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598919939214" />
+    <state x="815" y="436" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598919732418">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="815" y="436" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598919732418" />
     <state x="540" y="72" width="600" height="906" key="find.popup" timestamp="1598759178528">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="540" y="72" width="600" height="906" key="find.popup/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1598759178528" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1598833030350">
+    <state x="389" y="272" key="new project wizard" timestamp="1598919770436">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598833030350" />
+    <state x="389" y="272" key="new project wizard/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598919770436" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1598916939089">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598916939089" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
