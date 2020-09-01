@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ant-junit-1.7.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javaweb/lib/ant-junit-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/javaweb/lib/hamcrest-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

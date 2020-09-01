@@ -20,17 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7359cbc-5c17-4da0-9a1d-4a97d727cc87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JKHTML/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JKHTML/aside.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JKHTML/nav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JKHTML/section.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaweb/javaweb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaweb/src/cy/study/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaweb/xml/src/books.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaweb/xml/xml/books.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ant_junit_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/lib/ant-junit-1.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/lib/hamcrest-2.1-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/src/cy/study/Dom4jTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaweb/javaweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/javaweb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaweb/src/cy/study/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/src/cy/study/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaweb/xml/src/books.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/src/books.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +64,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -74,9 +75,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/javaweb/lib" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\javaweb\src" />
       <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\javaweb" />
       <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\xml\xml" />
     </key>
@@ -85,6 +91,46 @@
       <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\xml\src" />
       <recent name="D:\code\javastructure\javawebstudy\css" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Dom4jTest.test02">
+    <configuration name="Dom4jTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cy.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cy.study" />
+      <option name="MAIN_CLASS_NAME" value="cy.study.Dom4jTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dom4jTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cy.study.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cy.study" />
+      <option name="MAIN_CLASS_NAME" value="cy.study.Dom4jTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Dom4jTest.test02" />
+        <item itemvalue="JUnit.Dom4jTest.test1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -98,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598671690783</updated>
       <workItem from="1598671694162" duration="8176000" />
-      <workItem from="1598831083460" duration="17987000" />
+      <workItem from="1598831083460" duration="21722000" />
     </task>
     <servers />
   </component>
@@ -119,18 +165,74 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="556" y="206" width="808" height="713" key="#Intentions" timestamp="1598922781897">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="556" y="206" width="808" height="713" key="#Intentions/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598922781897" />
     <state x="705" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598868124598">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="705" y="356" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598868124598" />
-    <state x="769" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1598919939214">
+    <state x="769" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1598923580800">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="769" y="251" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598919939214" />
+    <state x="769" y="251" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923580800" />
     <state x="815" y="436" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1598919732418">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="815" y="436" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598919732418" />
+    <state x="774" y="356" key="FileChooserDialogImpl" timestamp="1598920357744">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="774" y="356" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598920357744" />
+    <state width="1870" height="411" key="GridCell.Tab.0.bottom" timestamp="1598923706211">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="411" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923706211" />
+    <state width="1870" height="411" key="GridCell.Tab.0.center" timestamp="1598923706211">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="411" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923706211" />
+    <state width="1870" height="411" key="GridCell.Tab.0.left" timestamp="1598923706211">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="411" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923706211" />
+    <state width="1870" height="411" key="GridCell.Tab.0.right" timestamp="1598923706211">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="411" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923706211" />
+    <state width="1870" height="319" key="GridCell.Tab.1.bottom" timestamp="1598923694158">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="319" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923694158" />
+    <state width="1870" height="319" key="GridCell.Tab.1.center" timestamp="1598923694158">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="319" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923694158" />
+    <state width="1870" height="319" key="GridCell.Tab.1.left" timestamp="1598923694158">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="319" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923694158" />
+    <state width="1870" height="319" key="GridCell.Tab.1.right" timestamp="1598923694158">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="319" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923694158" />
+    <state x="474" y="176" key="SettingsEditor" timestamp="1598920391425">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="474" y="176" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598920391425" />
+    <state x="682" y="448" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598920440295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="682" y="448" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598920440295" />
+    <state x="364" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598920604182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="364" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598920604182" />
+    <state x="767" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598920575574">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="767" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598920575574" />
     <state x="540" y="72" width="600" height="906" key="find.popup" timestamp="1598759178528">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -143,6 +245,17 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598916939089" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javaweb/src/cy/study/Dom4jTest.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
