@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <form action="">
+        <div>
+            ID:
+            <input type="text" v-on:keyup.delete='deletee' v-model='uname'>
+        </div>
+        <div>
+            PW:
+            <input type="text" @keyup.delete="deleteee" v-on:keyup.enter="handlerSubmit" v-model='pwd'>
+        </div>
+        <div>
+            <input type="button" @click="handlerSubmit" value="submit">
+        </div>
+    </form>
+</div>
+
+<script type="text/javascript" src="../../lib/vue.js">
+</script>
+<script type="text/javascript">
+
+    var vm = new Vue(
+        {
+            el:'#app',
+            data:{
+                uname: '',
+                pwd:''
+            },
+            methods: {
+                handlerSubmit:function () {
+                    console.log(this.uname, this.pwd)
+                },
+                deletee:function () {
+                    this.uname = '';
+                },
+                deleteee:function () {
+                    this.pwd = '';
+                }
+            }
+        }
+    );
+
+</script>
+</body>
+</html>

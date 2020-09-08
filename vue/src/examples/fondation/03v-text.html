@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hellow</title>
+</head>
+<body>
+<!--1-->
+<div id="app">
+    <div v-text="msg"></div>
+    <div v-html="msg1"></div>
+    <div v-pre>{{{444}}}</div>
+    <div v-once="info"></div>
+    <div>
+        <input type="text" v-model="msg">
+    </div>
+
+</div>
+
+<!--2-->
+<script type="text/javascript" src="../../lib/vue.js">
+
+</script>
+    <script type="text/javascript">
+        /*
+        v-cloak指令的用法
+        1、提供样式
+        [v-cloak] {
+          display: none;
+        }
+        2、在插值表达式所在的标签中添加v-cloak
+        背后的原理：先通过样式隐藏内容，然后在内存中进行值的替换，替换好之后再显示最终的结果
+         */
+
+        <!--3-4-->
+        var vm = new Vue(
+            {
+                el:'#app',
+                data:{
+                    msg:'hellow vue',
+                    msg1:'<h1>HTML</h1>',
+                    info:'nihao'
+                }
+            }
+        );
+    </script>
+</body>
+</html>

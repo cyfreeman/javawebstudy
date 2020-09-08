@@ -20,14 +20,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7359cbc-5c17-4da0-9a1d-4a97d727cc87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ant_junit_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaweb/lib/ant-junit-1.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaweb/lib/hamcrest-2.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaweb/src/cy/study/Dom4jTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/vue_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/webpack_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/01-hellow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/03v-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/06-事件绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/07-事件函数传参.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/08-事件阻止函数.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/09-直接按键删除.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/10-按键修饰符自定义.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/fondation/10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/01-hello world.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/02-指令v-cloak的用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/03-数据填充相关3个指令用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/04-指令v-once的用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/05-双向数据绑定.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/06-事件基本用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/07-事件函数传参.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/08-事件修饰符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/09-按键修饰符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/10-自定义事件修饰符.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/11-简单计算器案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/12-属性绑定基本用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/13-指令v-model的本质.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/14-样式绑定之class绑定对象用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/15-样式绑定之class绑定数组用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/16-样式绑定之class绑定3个细节用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/17-样式绑定之style绑定用法.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/18-分支结构.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/19-循环结构-遍历数组.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/20-循环结构-遍历对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/21-选项卡案例 - 副本.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/examples/template/21-选项卡案例.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/lib/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/FastInoset.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/gmbal-api-only.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/ha-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/jaxb-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/jaxb-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/jaxb-xjc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/jaxws-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/jaxws-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/jaxws-tools.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/jsr181-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/management-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/mimepull.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/policy.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/saaj-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/saaj-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/stax-ex.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/stax2-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/streambuffer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/lib/woodstox-core-asl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/src/example/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/web/WEB-INF/sun-jaxws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/webpack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaweb/javaweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/javaweb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaweb/src/cy/study/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/src/cy/study/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaweb/xml/src/books.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/src/books.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyrecord" beforeDir="false" afterPath="$PROJECT_DIR$/studyrecord" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +100,8 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,6 +124,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -73,12 +135,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaweb/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue/src/examples/template" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -87,9 +149,11 @@
       <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\xml\xml" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\vue\src\examples\template" />
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\vue\src\examples\fondation" />
+      <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\vue\src\lib" />
       <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\javaweb\lib" />
       <recent name="D:\work\code\JavaArchitectureStudyPlan\javawebstudy\xml\src" />
-      <recent name="D:\code\javastructure\javawebstudy\css" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Dom4jTest.test02">
@@ -144,7 +208,10 @@
       <option name="presentableId" value="Default" />
       <updated>1598671690783</updated>
       <workItem from="1598671694162" duration="8176000" />
-      <workItem from="1598831083460" duration="21722000" />
+      <workItem from="1598831083460" duration="26242000" />
+      <workItem from="1598931276254" duration="4168000" />
+      <workItem from="1599187977206" duration="13607000" />
+      <workItem from="1599450167104" duration="3371000" />
     </task>
     <servers />
   </component>
@@ -164,6 +231,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="556" y="206" width="808" height="713" key="#Intentions" timestamp="1598922781897">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -181,46 +251,50 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="815" y="436" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598919732418" />
-    <state x="774" y="356" key="FileChooserDialogImpl" timestamp="1598920357744">
+    <state x="724" y="356" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1599450327529">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="774" y="356" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598920357744" />
-    <state width="1870" height="411" key="GridCell.Tab.0.bottom" timestamp="1598923706211">
+    <state x="724" y="356" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599450327529" />
+    <state x="774" y="356" key="FileChooserDialogImpl" timestamp="1599450318617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="411" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923706211" />
-    <state width="1870" height="411" key="GridCell.Tab.0.center" timestamp="1598923706211">
+    <state x="774" y="356" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599450318617" />
+    <state width="1870" height="319" key="GridCell.Tab.0.bottom" timestamp="1598931233865">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="411" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923706211" />
-    <state width="1870" height="411" key="GridCell.Tab.0.left" timestamp="1598923706211">
+    <state width="1870" height="319" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598931233865" />
+    <state width="1870" height="319" key="GridCell.Tab.0.center" timestamp="1598931233864">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="411" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923706211" />
-    <state width="1870" height="411" key="GridCell.Tab.0.right" timestamp="1598923706211">
+    <state width="1870" height="319" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598931233864" />
+    <state width="1870" height="319" key="GridCell.Tab.0.left" timestamp="1598931233864">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="411" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923706211" />
-    <state width="1870" height="319" key="GridCell.Tab.1.bottom" timestamp="1598923694158">
+    <state width="1870" height="319" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598931233864" />
+    <state width="1870" height="319" key="GridCell.Tab.0.right" timestamp="1598931233864">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="319" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923694158" />
-    <state width="1870" height="319" key="GridCell.Tab.1.center" timestamp="1598923694158">
+    <state width="1870" height="319" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598931233864" />
+    <state width="1870" height="319" key="GridCell.Tab.1.bottom" timestamp="1598931233865">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="319" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923694158" />
-    <state width="1870" height="319" key="GridCell.Tab.1.left" timestamp="1598923694158">
+    <state width="1870" height="319" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598931233865" />
+    <state width="1870" height="319" key="GridCell.Tab.1.center" timestamp="1598931233865">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="319" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923694158" />
-    <state width="1870" height="319" key="GridCell.Tab.1.right" timestamp="1598923694158">
+    <state width="1870" height="319" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598931233865" />
+    <state width="1870" height="319" key="GridCell.Tab.1.left" timestamp="1598931233865">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1870" height="319" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598923694158" />
-    <state x="474" y="176" key="SettingsEditor" timestamp="1598920391425">
+    <state width="1870" height="319" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598931233865" />
+    <state width="1870" height="319" key="GridCell.Tab.1.right" timestamp="1598931233865">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="474" y="176" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598920391425" />
+    <state width="1870" height="319" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598931233865" />
+    <state x="474" y="176" key="SettingsEditor" timestamp="1599450484478">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="474" y="176" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599450484478" />
     <state x="682" y="448" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598920440295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -237,25 +311,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="540" y="72" width="600" height="906" key="find.popup/-1680.0.1680.1050/0.0.1680.1050@0.0.1680.1050" timestamp="1598759178528" />
-    <state x="389" y="272" key="new project wizard" timestamp="1598919770436">
+    <state x="389" y="272" key="new project wizard" timestamp="1599188011834">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="389" y="272" key="new project wizard/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598919770436" />
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1598916939089">
+    <state x="389" y="272" key="new project wizard/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599188011834" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1599189852871">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1598916939089" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/javaweb/src/cy/study/Dom4jTest.java</url>
-          <line>45</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1599189852871" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="app">
+    <div>{{num}}</div>
+    <div v-on:click='handler0'>
+        <button @click='handler1'>clickuuu</button>
+    </div>
+    <div>
+        <a href="http://www.baidu.com" @click="handler2">baidu</a>
+    </div>
+</div>
+
+<script type="text/javascript" src="../../lib/vue.js">
+</script>
+<script type="text/javascript">
+
+    var vm = new Vue(
+        {
+            el:'#app',
+            data:{
+                num: 0
+            },
+            methods: {
+                handler0: function(){
+                    //这里的THIS是vue的实例对象
+                    this.num++
+                },
+                handler1: function(event){
+                    //这里的THIS是vue的实例对象
+                    event.stopPropagation();
+                },
+                handler2: function(event){
+                    //这里的THIS是vue的实例对象
+                    event.preventDefault();
+                }
+            }
+        }
+    );
+
+</script>
+</body>
+</html>
